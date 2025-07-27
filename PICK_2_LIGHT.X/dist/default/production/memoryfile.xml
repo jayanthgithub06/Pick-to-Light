@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\PICK_2_LIGHT.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>12289</length>
+      <used>4929</used>
+      <free>7360</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>1536</length>
+      <used>141</used>
+      <free>1395</free>
+    </memory>
+  </executable>
+</project>
